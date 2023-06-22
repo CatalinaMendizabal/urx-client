@@ -82,3 +82,23 @@
     flex-direction: row;
     justify-content: space-between;
 }
+
+.middle-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.coordinates-container {
+    display: flex;
+    flex-direction: row;
+    font-size: 18px;
+}
+
+.coordinates-elements {
+    padding-right: 15px;
+}
+
+.position-name {
+    font-weight: bold;
+}
